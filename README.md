@@ -7,11 +7,13 @@ Web system that, based on a budget indicated by the user, records expenses incur
 ## Built With
 
     - React
+    - Hooks
     - HTML
     - CSS
   	- JavaScript
     - JSX
     
 ## It was also used:
-    - Hooks
+    
     - PropTypes
+    - Skeleton CSS
